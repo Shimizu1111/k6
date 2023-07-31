@@ -2,7 +2,7 @@ name: Test
 on:
   push:
     branches:
-      - master
+      - jikkou-kankyou
   pull_request:
 
 defaults:
